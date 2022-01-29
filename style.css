@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header{
+background-color: darkslateblue;
+padding-bottom:35px ;
+
+}
+
+
+header img {
+margin:15px; border: 5px solid whitesmoke;
+;
+border-radius: 10px
+
+}
+
+header a {
+background-color:white ;
+padding:15px ;
+color: rgb(71, 63, 126);
+border-radius:30px ;
+text-decoration:none ;]
+}
+
+h1 {
+color:darkslateblue; 
+text-align: center;
+border: 6px dashed rgb(55, 19, 66)
+
+}
+
+footer {
+ background-color:rgb(78, 38, 124);
+ color:rgb(65, 32, 70);   
+text-align: center;
+border:rgb(221, 185, 226) 6px outset;
+}
+
+footer p {
+margin: 15px;
+background-color: cornsilk;
+}
+
+nav a {
+background-color:rgb(196, 163, 235) ;
+padding-left:20px;
+padding-right:20px ;
+border: 2px dashed rgb(65, 32, 70) ;
+text-decoration: none;
+color: rgb(166, 106, 200)
+
+}
